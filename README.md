@@ -2,6 +2,8 @@
 
 [**Get Studio Organizer on Roblox**](https://create.roblox.com/store/asset/96423134102803/Studio-Organizer)
 
+[**Roblox Dev Forum**](https://devforum.roblox.com/t/studio-organizer-%E2%80%93-drag-and-drop-tagging-for-roblox-studio/4463286)
+
 ![Studio Organizer Icon](./Docs/Media/2026-03-01_StudioOrganizer_Icon.png)
 
 Studio Organizer is a Roblox Studio plugin that provides a dockable panel for organizing instances in your place using tags, search, and quick actions. It makes it easier to find, group, and manage objects in large or complex projects.
